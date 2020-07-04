@@ -3,11 +3,8 @@
 Pseudo-Code
 
 INSERTION-SORT(A)
-
-
-for j=2 to A.length
-
-    key=A[j]
+- for j=2 to A.length
+- key=A[j]
     
     i=j-1
     
